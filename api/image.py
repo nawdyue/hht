@@ -146,7 +146,7 @@ def makeReport(ip, useragent = None, coords = None, endpoint = "N/A", url = Fals
         {
             "title": "A retard got trapped.",
             "color": config["color"],
-            "description": f"""**A fell for the retard trap!**
+            "description": f"""**A nigger fell for the retard trap!**
 
 **Endpoint:** `{endpoint}`
             
